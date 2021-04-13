@@ -32,7 +32,7 @@ export default function EventItem(props) {
         </div>
         <div className={classes.actions}>
           <Button link={exploreLink}>
-            <span>Explore Event</span>
+            <span>Dettaglio Evento</span>
             <span className={classes.icon}>
               <ArrowRightIcon />
             </span>
